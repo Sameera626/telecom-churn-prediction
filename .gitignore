@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+*.ipynb_checkpoints
+
+# Data
+/data/
+*.csv
+*.pkl
+*.parquet
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
